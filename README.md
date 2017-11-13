@@ -17,7 +17,7 @@ https://github.com/dzetShareTool/about_vpn/raw/master/__Vpn/psiphon3.exe
 
 ------
 
-蓝灯(Lantern)
+Lantern
 
 https://github.com/getlantern/lantern/releases/tag/latest
 
