@@ -4,13 +4,13 @@
 ------
 ------
 
-psiphonAndroid
+psiphon Android
 
 https://github.com/dzetShareTool/about_vpn/raw/master/__Vpn/PsiphonAndroid.apk
 
 ------
 
-psiphone
+psiphone Windows
 
 https://github.com/dzetShareTool/about_vpn/raw/master/__Vpn/psiphon3.exe
 
