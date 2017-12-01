@@ -6,13 +6,13 @@
 
 psiphon Android
 
-https://github.com/dzetShareTool/about_vpn/raw/master/__Vpn/PsiphonAndroid.apk
+https://github.com/dzet-share/about_vpn/raw/master/__Vpn/PsiphonAndroid.apk
 
 ------
 
 psiphone Windows
 
-https://github.com/dzetShareTool/about_vpn/raw/master/__Vpn/psiphon3.exe
+https://github.com/dzet-share/about_vpn/raw/master/__Vpn/psiphon3.exe
 
 
 ------
